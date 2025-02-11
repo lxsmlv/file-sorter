@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build files
+dist/
+*.tsbuildinfo
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Large files or output files
+large_input_file.txt
+sorted_file.txt
